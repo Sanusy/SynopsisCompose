@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SynopsisCompose</string>
+    <string name="app_title">Synopsis</string>
+
+    <string name="enter_topic_name">Enter theme name</string>
+    <string name="dialog_create">Create</string>
+
+    <string name="enter_thesis_name">Enter thesis name</string>
+</resources>
